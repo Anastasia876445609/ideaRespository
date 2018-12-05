@@ -6,7 +6,7 @@ package com.atguigu;
 public class ClassTest {
     public static void main(String[] args) {
         System.out.println("BBBBBBBBBBBBBBB");
-        System.out.println("AAAAAAAAAAAAA");
+        System.out.println("AAAAAAAAAAAAAA");
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
